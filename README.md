@@ -156,7 +156,7 @@ python train_model.py
 ### Deployment & Documentation 
 * This app is designed to run on Streamlit Community Cloud.
 
-* [Documentation](https://www.linkedin.com/in/lakshmidharn-231107u/)
+* [Documentation]([https://www.linkedin.com/in/lakshmidharn-231107u/](https://drive.google.com/file/d/1DS97x7RDsgpU9P0NlL_joivX7qX2pso0/view?usp=sharing))
 
 ---
 
