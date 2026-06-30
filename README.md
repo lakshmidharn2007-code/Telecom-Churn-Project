@@ -147,9 +147,9 @@ python train_model.py
 
 ## Screenshots
 
-![alt text](image.png)
+<img width="1912" height="831" alt="image" src="https://github.com/user-attachments/assets/7d372627-ade5-4780-bb55-2437ed4ff3c4" />
 
-![alt text](image-1.png)
+<img width="1908" height="855" alt="image-1" src="https://github.com/user-attachments/assets/20cdbcea-abd2-48a0-a84d-8e5c4ca68765" />
 
 ---
 
